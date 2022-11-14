@@ -13,6 +13,11 @@ Go to terminal
 ```bash
   pip install -r requirements.txt
 ```
+Go to Brainy-Quotes-Scrapy/quotes/spiders/config.py 
+
+```python
+  API = 'Your API KEY here' # Replace with your proxy api key
+```
 
 Run the script
 
