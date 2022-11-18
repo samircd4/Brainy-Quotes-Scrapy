@@ -6,7 +6,7 @@
 Clone the project and open folder with vs code
 
 ```bash
-  git clone https://github.com/samircd4/Scrapy.git
+  git clone https://github.com/samircd4/Brainy-Quotes-Scrapy.git
 ```
 Go to terminal
 
